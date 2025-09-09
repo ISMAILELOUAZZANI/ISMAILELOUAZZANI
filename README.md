@@ -65,7 +65,7 @@ I believe in the power of <strong>open source</strong>, continuous learning, and
   <a href="https://x.com/ismalelouazzan1" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://discord.com/" target="_blank">
+  <a href="https://discord.gg/rsScCymD" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="https://twitch.tv/" target="_blank">
