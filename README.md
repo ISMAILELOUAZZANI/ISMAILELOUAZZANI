@@ -62,7 +62,7 @@ I believe in the power of <strong>open source</strong>, continuous learning, and
   <a href="https://www.linkedin.com/in/ismail-elouazzani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/" target="_blank">
+  <a href="https://x.com/ismalelouazzan1" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://discord.com/" target="_blank">
@@ -71,7 +71,7 @@ I believe in the power of <strong>open source</strong>, continuous learning, and
   <a href="https://twitch.tv/" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
   </a>
-  <a href="https://dev.to/" target="_blank">
+  <a href="https://ismailelouazzani.wordpress.com/" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
   </a>
 </div>
@@ -86,10 +86,3 @@ I believe in the power of <strong>open source</strong>, continuous learning, and
 
 ---
 
-<!-- PROJECTS -->
-<h2 align="center">🚀 Featured Projects</h2>
-<p align="center">
-  <strong>Real-Time Air Quality Prediction</strong> – Predicting PM2.5 levels in Morocco using Python, OpenWeatherMap API, and ML models. <br>
-  <strong>Intelligent Control Systems</strong> – ESP32-based fuzzy logic control for smart braking and automation. <br>
-  <strong>IoT Platforms</strong> – IoT dashboards and MQTT communication for sensor monitoring and alerts.
-</p>
