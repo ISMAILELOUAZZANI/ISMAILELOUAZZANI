@@ -76,13 +76,5 @@ I believe in the power of <strong>open source</strong>, continuous learning, and
   </a>
 </div>
 
----
 
-<!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismail-elouazzani&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</div>
-
----
 
