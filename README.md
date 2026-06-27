@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=650&lines=AI+%26+GenAI+Engineer;RAG+%E2%80%A2+LLMs+%E2%80%A2+LangChain;Deep+Learning+%26+Computer+Vision;Ing%C3%A9nieur+IA+%40+IRD+%7C+Master+BDSI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=650&lines=AI+%26+GenAI+Engineer;RAG+%E2%80%A2+LLMs+%E2%80%A2+LangChain;Deep+Learning+%26+Computer+Vision;Stage+M2+%40+IRD+%7C+Master+BDSI" alt="Typing SVG" />
 
 # Ismaïl El Ouazzani
 
-🎓 Master **Big Data & Systèmes Intelligents** · 🧠 **AI / GenAI Engineer @ IRD**
+🎓 Master **Big Data & Systèmes Intelligents** · 🧠 **Stagiaire IA / GenAI @ IRD**
 
 <a href="https://ismailel-ouazzani.netlify.app/fr/"><img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ismail-elouazzani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -33,13 +33,13 @@
 
 ### 👨‍💻 À propos
 
-Étudiant en **Master Big Data & Systèmes Intelligents (BDSI)** à l'Université Sidi Mohamed Ben Abdellah – FSDM Fès, et **Ingénieur IA à l'IRD** (Institut de Recherche pour le Développement, Marseille).
+Étudiant en **Master Big Data & Systèmes Intelligents (BDSI)** à l'Université Sidi Mohamed Ben Abdellah – FSDM Fès, actuellement en **stage de fin d'études (M2) à l'IRD** (Institut de Recherche pour le Développement, Marseille).
 
 Je conçois des solutions d'**IA Générative & Agentique** : je qualifie les cas d'usage, je prototype (POC) et j'industrialise des architectures fiables — RAG, LLMs, LangChain, Deep Learning, le tout conteneurisé (Docker) sur du stockage objet S3 (MinIO / lakeFS).
 
 ### 🚀 En ce moment
 
-- 🐟 **COREPÊCHE @ IRD** — plateforme d'identification benthique pour le suivi des pêcheries de Madagascar (CNN transfer learning, assistant RAG, versioning de données MinIO/lakeFS)
+- 🐟 **COREPÊCHE @ IRD** *(stage M2)* — plateforme d'identification benthique pour le suivi des pêcheries de Madagascar (CNN transfer learning, assistant RAG, versioning de données MinIO/lakeFS)
 - 🤖 **IA Agentique & Conformité** — agents LLM pour structurer des corpus réglementaires et automatiser la vérification (process mining)
 - 🌐 **IoT & temps réel** — prédiction de qualité de l'air, systèmes de contrôle intelligents (ESP32)
 
@@ -57,13 +57,13 @@ Je conçois des solutions d'**IA Générative & Agentique** : je qualifie les ca
 
 ### 👨‍💻 About me
 
-Master's student in **Big Data & Intelligent Systems (BDSI)** at Sidi Mohamed Ben Abdellah University – FSDM Fès, and **AI Engineer at IRD** (French National Research Institute for Sustainable Development, Marseille).
+Master's student in **Big Data & Intelligent Systems (BDSI)** at Sidi Mohamed Ben Abdellah University – FSDM Fès, currently doing my **final-year Master's internship at IRD** (French National Research Institute for Sustainable Development, Marseille).
 
 I build **Generative & Agentic AI** solutions: I scope use cases, prototype (POC) and industrialize reliable architectures — RAG, LLMs, LangChain, Deep Learning — fully containerized (Docker) on S3 object storage (MinIO / lakeFS).
 
 ### 🚀 Currently working on
 
-- 🐟 **COREPÊCHE @ IRD** — benthic identification platform for Madagascar fisheries monitoring (CNN transfer learning, RAG assistant, MinIO/lakeFS data versioning)
+- 🐟 **COREPÊCHE @ IRD** *(M2 internship)* — benthic identification platform for Madagascar fisheries monitoring (CNN transfer learning, RAG assistant, MinIO/lakeFS data versioning)
 - 🤖 **Agentic AI & Compliance** — LLM agents that structure regulatory corpora and automate conformity checks (process mining)
 - 🌐 **IoT & real-time** — air-quality prediction, intelligent control systems (ESP32)
 
@@ -170,6 +170,6 @@ I build **Generative & Agentic AI** solutions: I scope use cases, prototype (POC
 <a href="https://ismailel-ouazzani.netlify.app/fr/"><img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://x.com/ismalelouazzan1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
 
-<sub>⭐️ <em>From Fès to Marseille, building intelligent systems that solve real problems.</em></sub>
+<sub>⭐️ <em>From Fès to Marseille — M2 intern building intelligent systems that solve real problems.</em></sub>
 
 </div>
