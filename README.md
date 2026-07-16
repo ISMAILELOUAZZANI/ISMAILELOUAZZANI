@@ -35,13 +35,13 @@
 
 Étudiant en **Master Big Data & Systèmes Intelligents (BDSI)** à l'Université Sidi Mohamed Ben Abdellah – FSDM Fès, actuellement en **stage de fin d'études (M2) à l'IRD** (Institut de Recherche pour le Développement, Marseille).
 
-Je conçois des solutions d'**IA Générative & Agentique** : je qualifie les cas d'usage, je prototype (POC) et j'industrialise des architectures fiables — RAG, LLMs, LangChain, Deep Learning, le tout conteneurisé (Docker) sur du stockage objet S3 (MinIO / lakeFS).
+Je conçois des solutions d'**IA Générative & Agentique** : je qualifie les cas d'usage, je prototype (POC) et j'industrialise des architectures fiables  RAG, LLMs, LangChain, Deep Learning, le tout conteneurisé (Docker) sur du stockage objet S3 (MinIO / lakeFS).
 
 ### 🚀 En ce moment
 
-- 🐟 **COREPÊCHE @ IRD** *(stage M2)* — plateforme d'identification benthique pour le suivi des pêcheries de Madagascar (CNN transfer learning, assistant RAG, versioning de données MinIO/lakeFS)
-- 🤖 **IA Agentique & Conformité** — agents LLM pour structurer des corpus réglementaires et automatiser la vérification (process mining)
-- 🌐 **IoT & temps réel** — prédiction de qualité de l'air, systèmes de contrôle intelligents (ESP32)
+- 🐟 **COREPÊCHE @ IRD** *(stage M2)*  plateforme d'identification benthique pour le suivi des pêcheries de Madagascar (CNN transfer learning, assistant RAG, versioning de données MinIO/lakeFS)
+- 🤖 **IA Agentique & Conformité**  agents LLM pour structurer des corpus réglementaires et automatiser la vérification (process mining)
+- 🌐 **IoT & temps réel**  prédiction de qualité de l'air, systèmes de contrôle intelligents (ESP32)
 
 > 💡 Ma conviction : traduire des besoins non-techniques en architectures IA fiables, strictement bridées par des règles logiques.
 
@@ -59,13 +59,13 @@ Je conçois des solutions d'**IA Générative & Agentique** : je qualifie les ca
 
 Master's student in **Big Data & Intelligent Systems (BDSI)** at Sidi Mohamed Ben Abdellah University – FSDM Fès, currently doing my **final-year Master's internship at IRD** (French National Research Institute for Sustainable Development, Marseille).
 
-I build **Generative & Agentic AI** solutions: I scope use cases, prototype (POC) and industrialize reliable architectures — RAG, LLMs, LangChain, Deep Learning — fully containerized (Docker) on S3 object storage (MinIO / lakeFS).
+I build **Generative & Agentic AI** solutions: I scope use cases, prototype (POC) and industrialize reliable architectures  RAG, LLMs, LangChain, Deep Learning  fully containerized (Docker) on S3 object storage (MinIO / lakeFS).
 
 ### 🚀 Currently working on
 
-- 🐟 **COREPÊCHE @ IRD** *(M2 internship)* — benthic identification platform for Madagascar fisheries monitoring (CNN transfer learning, RAG assistant, MinIO/lakeFS data versioning)
-- 🤖 **Agentic AI & Compliance** — LLM agents that structure regulatory corpora and automate conformity checks (process mining)
-- 🌐 **IoT & real-time** — air-quality prediction, intelligent control systems (ESP32)
+- 🐟 **COREPÊCHE @ IRD** *(M2 internship)*  benthic identification platform for Madagascar fisheries monitoring (CNN transfer learning, RAG assistant, MinIO/lakeFS data versioning)
+- 🤖 **Agentic AI & Compliance**  LLM agents that structure regulatory corpora and automate conformity checks (process mining)
+- 🌐 **IoT & real-time**  air-quality prediction, intelligent control systems (ESP32)
 
 > 💡 My belief: turning non-technical needs into reliable AI architectures, strictly constrained by logical rules.
 
@@ -158,7 +158,7 @@ I build **Generative & Agentic AI** solutions: I scope use cases, prototype (POC
 
 ## 🏅 Certifications
 
-`Oracle Data Platform Foundations` · `Oracle Cloud Infrastructure AI Foundations` · `AWS Cloud Essentials` · `MongoDB Atlas Vector Search (RAG)` · `Apache Spark — IBM`
+`Oracle Data Platform Foundations` · `Oracle Cloud Infrastructure AI Foundations` · `AWS Cloud Essentials` · `MongoDB Atlas Vector Search (RAG)` · `Apache Spark  IBM`
 
 ---
 
@@ -170,6 +170,6 @@ I build **Generative & Agentic AI** solutions: I scope use cases, prototype (POC
 <a href="https://ismailel-ouazzani.netlify.app/fr/"><img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://x.com/ismalelouazzan1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
 
-<sub>⭐️ <em>From Fès to Marseille — M2 intern building intelligent systems that solve real problems.</em></sub>
+<sub>⭐️ <em>From Fès to Marseille  M2 intern building intelligent systems that solve real problems.</em></sub>
 
 </div>
