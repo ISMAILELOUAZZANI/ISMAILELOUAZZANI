@@ -10,7 +10,7 @@
 
 🎓 Master **Big Data & Systèmes Intelligents** · 🧠 **Stagiaire IA / GenAI @ IRD**
 
-<a href="https://ismailel-ouazzani.netlify.app/fr/"><img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://ismailelouazzani.github.io/portfolio/fr/"><img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ismail-elouazzani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://x.com/ismalelouazzan1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="mailto:ismail.el-ouazzani@ird.fr"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
