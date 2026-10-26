@@ -167,7 +167,7 @@ I build **Generative & Agentic AI** solutions: I scope use cases, prototype (POC
 ### 🤝 Let's connect & build something amazing!
 
 <a href="https://www.linkedin.com/in/ismail-elouazzani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://ismailel-ouazzani.netlify.app/fr/"><img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://ismailelouazzani.github.io/portfolio/fr/#projects"><img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://x.com/ismalelouazzan1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
 
 <sub>⭐️ <em>From Fès to Marseille  M2 intern building intelligent systems that solve real problems.</em></sub>
